@@ -73,7 +73,7 @@ Once you have the necessary tools installed locally, follow these steps to begin
    ```shell
    npm install --save request request-promise @actions/core
    ```
-9. Commit those newly added files,we will remove the need to upload **node_modules** in a later step:
+9. Commit those newly added files, we will remove the need to upload **node_modules** in a later step:
    ```shell
    git add .
    git commit -m 'add project dependencies'
